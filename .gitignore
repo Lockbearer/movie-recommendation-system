@@ -1,0 +1,19 @@
+# MovieLens dataset — not redistributable, download separately (see README)
+interactions.txt
+
+# Project report (kept local; contains personal info)
+report.pdf
+
+# Compiled output
+recommendation_system
+a.out
+*.o
+*.exe
+*.out
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
